@@ -37,3 +37,4 @@
 **【题目来源】**
 
 NOIP 2002 普及组第一题
+![alt text](image-1.png)
